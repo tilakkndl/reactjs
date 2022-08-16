@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "My first Blog",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "tilak",
+      "body": "kAksdljl sjd as",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "tilasjdlkjlsl",
+      "body": "sjfoehionkjs",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "yuyfg",
+      "body": "eeeeeeeeeeeeeeeeeeeee",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "tilak",
+      "body": "klassssssk",
+      "author": "mario",
+      "id": 9
+    },
+    {
+      "title": "qqqqqqqqqqqq",
+      "body": "aaaaaaaaaaaaaaaaaaa",
+      "author": "yosh",
+      "id": 10
+    },
+    {
+      "title": "pppppppppppppp",
+      "body": "pppppppppppppppppppppppppppppppppppppppppp",
+      "author": "mario",
+      "id": 11
+    }
+  ]
+}
